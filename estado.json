@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71daa"
+  },
+  "uf": 11,
+  "sigla": "RO",
+  "nome": "Rondônia"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dab"
+  },
+  "uf": 12,
+  "sigla": "AC",
+  "nome": "Acre"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dac"
+  },
+  "uf": 13,
+  "sigla": "AM",
+  "nome": "Amazonas"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dad"
+  },
+  "uf": 14,
+  "sigla": "RR",
+  "nome": "Roraima"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dae"
+  },
+  "uf": 15,
+  "sigla": "PA",
+  "nome": "Pará"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71daf"
+  },
+  "uf": 16,
+  "sigla": "AP",
+  "nome": "Amapá"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71db0"
+  },
+  "uf": 17,
+  "sigla": "TO",
+  "nome": "Tocantins"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71db1"
+  },
+  "uf": 21,
+  "sigla": "MA",
+  "nome": "Maranhão"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71db2"
+  },
+  "uf": 22,
+  "sigla": "PI",
+  "nome": "Piauí"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71db3"
+  },
+  "uf": 23,
+  "sigla": "CE",
+  "nome": "Ceará"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71db4"
+  },
+  "uf": 24,
+  "sigla": "RN",
+  "nome": "Rio Grande do Norte"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71db5"
+  },
+  "uf": 25,
+  "sigla": "PB",
+  "nome": "Paraíba"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71db6"
+  },
+  "uf": 26,
+  "sigla": "PE",
+  "nome": "Pernambuco"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71db7"
+  },
+  "uf": 27,
+  "sigla": "AL",
+  "nome": "Alagoas"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71db8"
+  },
+  "uf": 29,
+  "sigla": "BA",
+  "nome": "Bahia"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71db9"
+  },
+  "uf": 31,
+  "sigla": "MG",
+  "nome": "Minas Gerais"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dba"
+  },
+  "uf": 32,
+  "sigla": "ES",
+  "nome": "Espírito Santo"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dbb"
+  },
+  "uf": 33,
+  "sigla": "RJ",
+  "nome": "Rio de Janeiro"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dbc"
+  },
+  "uf": 35,
+  "sigla": "SP",
+  "nome": "São Paulo"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dbd"
+  },
+  "uf": 41,
+  "sigla": "PR",
+  "nome": "Paraná"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dbe"
+  },
+  "uf": 42,
+  "sigla": "SC",
+  "nome": "Santa Catarina"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dbf"
+  },
+  "uf": 43,
+  "sigla": "RS",
+  "nome": "Rio Grande do Sul"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dc0"
+  },
+  "uf": 50,
+  "sigla": "MS",
+  "nome": "Mato Grosso do Sul"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dc1"
+  },
+  "uf": 51,
+  "sigla": "MT",
+  "nome": "Mato Grosso"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dc2"
+  },
+  "uf": 52,
+  "sigla": "GO",
+  "nome": "Goiás"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dc3"
+  },
+  "uf": 53,
+  "sigla": "DF",
+  "nome": "Distrito Federal"
+},{
+  "_id": {
+    "$oid": "6089ffe4cf0b43750cb71dc4"
+  },
+  "uf": 28,
+  "sigla": "SE",
+  "nome": "Sergipe"
+}]
